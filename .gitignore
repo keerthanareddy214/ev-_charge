@@ -1,0 +1,23 @@
+# Eclipse / STS
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
